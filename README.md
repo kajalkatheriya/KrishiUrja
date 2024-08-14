@@ -36,9 +36,9 @@ KrishiUrja is a mobile application built using Flutter and Dart, with Firebase p
 flutter run
 
 ## Usage📱
-**Authentication:** Sign up or log in using the authentication options provided.
-**Database Operations:** Navigate through the app to add, view, or update data.
-**Notifications:** Ensure you have permissions enabled to receive push notifications.
+- Authentication: Sign up or log in using the authentication options provided.
+- Database Operations: Navigate through the app to add, view, or update data.
+- Notifications: Ensure you have permissions enabled to receive push notifications.
 
 ## Contributing🤝
 1. Fork the repository.
