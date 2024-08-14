@@ -2,10 +2,10 @@
 KrishiUrja is a mobile application built using Flutter and Dart, with Firebase providing the backend services. The app is designed to 🌟help farmers manage their agricultural activities efficiently.
 
 ## Features 🚀
-- User Authentication:🔐** Secure sign-in and sign-up using Firebase Authentication.
-- Real-time Database:📊** Manage and sync data with Firebase Realtime Database.
-- Cloud Firestore:☁️** Store and retrieve data with Firebase Cloud Firestore.
-- Push Notifications:📬** Receive timely notifications using Firebase Cloud Messaging.
+**- User Authentication:🔐** Secure sign-in and sign-up using Firebase Authentication.
+**- Real-time Database:📊** Manage and sync data with Firebase Realtime Database.
+**- Cloud Firestore:☁️** Store and retrieve data with Firebase Cloud Firestore.
+**- Push Notifications:📬** Receive timely notifications using Firebase Cloud Messaging.
 
 ## Installation🛠️
 ### Prerequisites
